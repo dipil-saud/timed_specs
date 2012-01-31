@@ -9,6 +9,8 @@ Installation
 
     gem install timed_specs
     
+Or
+
     gem 'timed_specs'
 
 
@@ -20,7 +22,7 @@ Usage
 
 Or, even easier, add this to your .rspec file:
 
-    require 'github/markup'
+    -f TimedSpecs
     
 
 
