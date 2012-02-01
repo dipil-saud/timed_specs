@@ -17,11 +17,12 @@ Or
 Usage
 -----
 
-    bundle exec rspec -f TimedSpecs spec/
+    bundle exec rspec -f TimedSpecs --colour spec/
     
 
 Or, even easier, add this to your .rspec file:
 
+    -- colour
     -f TimedSpecs
     
 
